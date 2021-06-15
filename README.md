@@ -1,7 +1,5 @@
 # Deep Learning Project
 
-Report: https://liveeduisegiunl-my.sharepoint.com/:b:/g/personal/r20170783_novaims_unl_pt/EYTxe9pwVOFOgUJOTQO-s_MB94UuRrsqGZ8BXuwEXxT3QA?e=5yCxYb
-
 Grade: 18 out of 20
 
 **Project Description:**
